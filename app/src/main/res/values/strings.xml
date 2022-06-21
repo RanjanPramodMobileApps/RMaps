@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="title_btn_maps">Destination Kochi</string>
+    <string name="title_bcK_home">Back To Kochi</string>
+</resources>
